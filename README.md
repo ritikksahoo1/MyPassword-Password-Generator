@@ -1,6 +1,6 @@
 # MyPassword-Password-Generator
 
-[DEMO] (https://ritikksahoo1.github.io/MyPassword-Password-Generator/)
+[DEMO](https://ritikksahoo1.github.io/MyPassword-Password-Generator/)
 
 ## <b> Overview </b>
 ![Screenshot 2023-07-23 135524](https://github.com/ritikksahoo1/MyPassword-Password-Generator/assets/117077788/68b0588d-c758-4c80-b7fe-ca028c423c0d)
